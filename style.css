@@ -1,1 +1,19 @@
+heard {
+  background: #BBBBBB;
+}
 
+nav li {
+  display: inline;
+}
+
+  nav a {
+    text-transform: uppercase;
+  }
+ font-weight: bold;
+   fot-size: 22px;
+
+ nav{
+    position:absolute;
+   top : 0;
+   right: 0;
+ }
